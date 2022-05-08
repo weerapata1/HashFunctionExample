@@ -22,6 +22,8 @@ public class Employee {
 
     private String empPassword;
 
+    private String empSalt;
+
 
 
 }
